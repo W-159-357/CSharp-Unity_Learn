@@ -1,0 +1,14 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\bin\Debug\net7.0\Lesson_03_string.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\bin\Debug\net7.0\Lesson_03_string.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\bin\Debug\net7.0\Lesson_03_string.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\bin\Debug\net7.0\Lesson_03_string.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\bin\Debug\net7.0\Lesson_03_string.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\refint\Lesson_03_string.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\Lesson_03_string.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_03_string\obj\Debug\net7.0\ref\Lesson_03_string.dll
