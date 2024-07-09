@@ -1,0 +1,14 @@
+D:\src\CSharp_Learn\Lesson_02_Vector\bin\Debug\net7.0\Lesson_02_Vevtor.exe
+D:\src\CSharp_Learn\Lesson_02_Vector\bin\Debug\net7.0\Lesson_02_Vevtor.deps.json
+D:\src\CSharp_Learn\Lesson_02_Vector\bin\Debug\net7.0\Lesson_02_Vevtor.runtimeconfig.json
+D:\src\CSharp_Learn\Lesson_02_Vector\bin\Debug\net7.0\Lesson_02_Vevtor.dll
+D:\src\CSharp_Learn\Lesson_02_Vector\bin\Debug\net7.0\Lesson_02_Vevtor.pdb
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.AssemblyInfo.cs
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.dll
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\refint\Lesson_02_Vevtor.dll
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.pdb
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\Lesson_02_Vevtor.genruntimeconfig.cache
+D:\src\CSharp_Learn\Lesson_02_Vector\obj\Debug\net7.0\ref\Lesson_02_Vevtor.dll
