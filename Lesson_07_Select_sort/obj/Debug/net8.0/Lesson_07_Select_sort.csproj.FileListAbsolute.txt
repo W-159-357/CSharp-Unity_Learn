@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\bin\Debug\net8.0\Lesson_07_Select_sort.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\bin\Debug\net8.0\Lesson_07_Select_sort.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\bin\Debug\net8.0\Lesson_07_Select_sort.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\bin\Debug\net8.0\Lesson_07_Select_sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\bin\Debug\net8.0\Lesson_07_Select_sort.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\refint\Lesson_07_Select_sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\Lesson_07_Select_sort.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_07_Select_sort\obj\Debug\net8.0\ref\Lesson_07_Select_sort.dll

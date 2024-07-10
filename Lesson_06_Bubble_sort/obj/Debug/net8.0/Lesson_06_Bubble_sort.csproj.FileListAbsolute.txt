@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\bin\Debug\net8.0\Lesson_06_Bubble_sort.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\bin\Debug\net8.0\Lesson_06_Bubble_sort.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\bin\Debug\net8.0\Lesson_06_Bubble_sort.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\bin\Debug\net8.0\Lesson_06_Bubble_sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\bin\Debug\net8.0\Lesson_06_Bubble_sort.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\refint\Lesson_06_Bubble_sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\Lesson_06_Bubble_sort.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_06_Bubble_sort\obj\Debug\net8.0\ref\Lesson_06_Bubble_sort.dll
