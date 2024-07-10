@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\bin\Debug\net8.0\Lesson_05_struct.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\bin\Debug\net8.0\Lesson_05_struct.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\bin\Debug\net8.0\Lesson_05_struct.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\bin\Debug\net8.0\Lesson_05_struct.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\bin\Debug\net8.0\Lesson_05_struct.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\refint\Lesson_05_struct.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\Lesson_05_struct.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_05_struct\obj\Debug\net8.0\ref\Lesson_05_struct.dll
