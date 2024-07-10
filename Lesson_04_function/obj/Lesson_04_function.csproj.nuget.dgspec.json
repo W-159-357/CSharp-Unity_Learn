@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_01_Test\\Lesson_01_Test.csproj": {}
+    "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_04_function\\Lesson_04_function.csproj": {}
   },
   "projects": {
-    "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_01_Test\\Lesson_01_Test.csproj": {
+    "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_04_function\\Lesson_04_function.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_01_Test\\Lesson_01_Test.csproj",
-        "projectName": "Lesson_01_Test",
-        "projectPath": "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_01_Test\\Lesson_01_Test.csproj",
+        "projectUniqueName": "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_04_function\\Lesson_04_function.csproj",
+        "projectName": "Lesson_04_function",
+        "projectPath": "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_04_function\\Lesson_04_function.csproj",
         "packagesPath": "C:\\Users\\WXJ\\.nuget\\packages\\",
-        "outputPath": "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_01_Test\\obj\\",
+        "outputPath": "D:\\src\\CSharp_Learn\\CSharp-Unity_Learn\\Lesson_04_function\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WXJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

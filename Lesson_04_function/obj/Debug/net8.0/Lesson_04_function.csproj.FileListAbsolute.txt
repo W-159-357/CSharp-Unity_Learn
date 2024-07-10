@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\bin\Debug\net8.0\Lesson_04_function.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\bin\Debug\net8.0\Lesson_04_function.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\bin\Debug\net8.0\Lesson_04_function.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\bin\Debug\net8.0\Lesson_04_function.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\bin\Debug\net8.0\Lesson_04_function.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\refint\Lesson_04_function.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\Lesson_04_function.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\obj\Debug\net8.0\ref\Lesson_04_function.dll

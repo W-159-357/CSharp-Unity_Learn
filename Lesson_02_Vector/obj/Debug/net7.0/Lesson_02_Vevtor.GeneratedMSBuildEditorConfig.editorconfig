@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lesson_02_Vevtor
 build_property.ProjectDir = D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_02_Vector\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

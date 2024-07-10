@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net7.0
+build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -7,7 +7,7 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Lesson_01
-build_property.ProjectDir = D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_00_print\
+build_property.RootNamespace = Lesson_04_function
+build_property.ProjectDir = D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_04_function\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
