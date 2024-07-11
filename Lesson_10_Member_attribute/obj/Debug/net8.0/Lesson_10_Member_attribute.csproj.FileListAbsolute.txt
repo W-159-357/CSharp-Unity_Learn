@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\bin\Debug\net8.0\Lesson_10_Member_attribute.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\bin\Debug\net8.0\Lesson_10_Member_attribute.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\bin\Debug\net8.0\Lesson_10_Member_attribute.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\bin\Debug\net8.0\Lesson_10_Member_attribute.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\bin\Debug\net8.0\Lesson_10_Member_attribute.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\refint\Lesson_10_Member_attribute.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\Lesson_10_Member_attribute.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_10_Member_attribute\obj\Debug\net8.0\ref\Lesson_10_Member_attribute.dll
