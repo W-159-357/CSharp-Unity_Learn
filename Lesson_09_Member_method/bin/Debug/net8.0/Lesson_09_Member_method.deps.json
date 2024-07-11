@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson_09_Member_method/1.0.0": {
+        "runtime": {
+          "Lesson_09_Member_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_09_Member_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

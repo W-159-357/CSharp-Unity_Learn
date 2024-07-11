@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\bin\Debug\net8.0\Lesson_09_Member_method.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\bin\Debug\net8.0\Lesson_09_Member_method.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\bin\Debug\net8.0\Lesson_09_Member_method.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\bin\Debug\net8.0\Lesson_09_Member_method.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\bin\Debug\net8.0\Lesson_09_Member_method.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\refint\Lesson_09_Member_method.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\Lesson_09_Member_method.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_09_Member_method\obj\Debug\net8.0\ref\Lesson_09_Member_method.dll
