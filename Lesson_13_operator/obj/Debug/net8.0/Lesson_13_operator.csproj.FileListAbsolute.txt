@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\bin\Debug\net8.0\Lesson_13_operator.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\bin\Debug\net8.0\Lesson_13_operator.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\bin\Debug\net8.0\Lesson_13_operator.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\bin\Debug\net8.0\Lesson_13_operator.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\bin\Debug\net8.0\Lesson_13_operator.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\refint\Lesson_13_operator.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\Lesson_13_operator.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_13_operator\obj\Debug\net8.0\ref\Lesson_13_operator.dll
