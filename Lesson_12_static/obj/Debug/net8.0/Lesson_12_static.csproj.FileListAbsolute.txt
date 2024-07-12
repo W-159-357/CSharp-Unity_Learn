@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\bin\Debug\net8.0\Lesson_12_static.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\bin\Debug\net8.0\Lesson_12_static.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\bin\Debug\net8.0\Lesson_12_static.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\bin\Debug\net8.0\Lesson_12_static.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\bin\Debug\net8.0\Lesson_12_static.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\refint\Lesson_12_static.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\Lesson_12_static.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_12_static\obj\Debug\net8.0\ref\Lesson_12_static.dll
