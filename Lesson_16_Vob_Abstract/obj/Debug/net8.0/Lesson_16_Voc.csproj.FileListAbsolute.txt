@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\bin\Debug\net8.0\Lesson_16_Voc.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\bin\Debug\net8.0\Lesson_16_Voc.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\bin\Debug\net8.0\Lesson_16_Voc.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\bin\Debug\net8.0\Lesson_16_Voc.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\bin\Debug\net8.0\Lesson_16_Voc.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\refint\Lesson_16_Voc.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\Lesson_16_Voc.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_16_Vob\obj\Debug\net8.0\ref\Lesson_16_Voc.dll
