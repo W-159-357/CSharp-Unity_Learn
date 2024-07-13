@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\bin\Debug\net8.0\Lesson_15_Richter_substitution.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\bin\Debug\net8.0\Lesson_15_Richter_substitution.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\bin\Debug\net8.0\Lesson_15_Richter_substitution.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\bin\Debug\net8.0\Lesson_15_Richter_substitution.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\bin\Debug\net8.0\Lesson_15_Richter_substitution.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\refint\Lesson_15_Richter_substitution.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\Lesson_15_Richter_substitution.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_15_Richter_substitution\obj\Debug\net8.0\ref\Lesson_15_Richter_substitution.dll
