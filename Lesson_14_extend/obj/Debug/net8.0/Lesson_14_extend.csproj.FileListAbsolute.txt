@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\bin\Debug\net8.0\Lesson_14_extend.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\bin\Debug\net8.0\Lesson_14_extend.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\bin\Debug\net8.0\Lesson_14_extend.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\bin\Debug\net8.0\Lesson_14_extend.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\bin\Debug\net8.0\Lesson_14_extend.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\refint\Lesson_14_extend.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\Lesson_14_extend.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_14_extend\obj\Debug\net8.0\ref\Lesson_14_extend.dll
