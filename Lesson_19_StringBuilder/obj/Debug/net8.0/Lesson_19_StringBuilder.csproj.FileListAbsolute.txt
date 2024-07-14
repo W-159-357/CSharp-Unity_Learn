@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\bin\Debug\net8.0\Lesson_19_StringBuilder.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\bin\Debug\net8.0\Lesson_19_StringBuilder.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\bin\Debug\net8.0\Lesson_19_StringBuilder.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\bin\Debug\net8.0\Lesson_19_StringBuilder.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\bin\Debug\net8.0\Lesson_19_StringBuilder.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\refint\Lesson_19_StringBuilder.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\Lesson_19_StringBuilder.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_19_StringBuilder\obj\Debug\net8.0\ref\Lesson_19_StringBuilder.dll
