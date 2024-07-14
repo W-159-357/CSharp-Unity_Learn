@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\bin\Debug\net8.0\Lesson_18_string.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\bin\Debug\net8.0\Lesson_18_string.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\bin\Debug\net8.0\Lesson_18_string.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\bin\Debug\net8.0\Lesson_18_string.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\bin\Debug\net8.0\Lesson_18_string.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\refint\Lesson_18_string.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\Lesson_18_string.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_18_string\obj\Debug\net8.0\ref\Lesson_18_string.dll
