@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\bin\Debug\net8.0\Lesson_21_Stack.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\bin\Debug\net8.0\Lesson_21_Stack.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\bin\Debug\net8.0\Lesson_21_Stack.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\bin\Debug\net8.0\Lesson_21_Stack.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\bin\Debug\net8.0\Lesson_21_Stack.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\refint\Lesson_21_Stack.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\Lesson_21_Stack.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_21_Stack\obj\Debug\net8.0\ref\Lesson_21_Stack.dll
