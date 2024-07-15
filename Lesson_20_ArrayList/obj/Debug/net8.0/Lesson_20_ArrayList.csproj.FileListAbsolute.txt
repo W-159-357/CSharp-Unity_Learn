@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\bin\Debug\net8.0\Lesson_20_ArrayList.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\bin\Debug\net8.0\Lesson_20_ArrayList.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\bin\Debug\net8.0\Lesson_20_ArrayList.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\bin\Debug\net8.0\Lesson_20_ArrayList.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\bin\Debug\net8.0\Lesson_20_ArrayList.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\refint\Lesson_20_ArrayList.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\Lesson_20_ArrayList.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_20_ArrayList\obj\Debug\net8.0\ref\Lesson_20_ArrayList.dll
