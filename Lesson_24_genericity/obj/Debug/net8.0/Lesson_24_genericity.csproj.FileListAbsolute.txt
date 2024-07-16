@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\bin\Debug\net8.0\Lesson_24_genericity.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\bin\Debug\net8.0\Lesson_24_genericity.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\bin\Debug\net8.0\Lesson_24_genericity.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\bin\Debug\net8.0\Lesson_24_genericity.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\bin\Debug\net8.0\Lesson_24_genericity.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\refint\Lesson_24_genericity.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\Lesson_24_genericity.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_24_genericity\obj\Debug\net8.0\ref\Lesson_24_genericity.dll
