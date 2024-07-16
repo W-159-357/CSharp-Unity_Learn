@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\bin\Debug\net8.0\Lesson_22_Queue.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\bin\Debug\net8.0\Lesson_22_Queue.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\bin\Debug\net8.0\Lesson_22_Queue.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\bin\Debug\net8.0\Lesson_22_Queue.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\bin\Debug\net8.0\Lesson_22_Queue.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\refint\Lesson_22_Queue.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\Lesson_22_Queue.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_22_Queue\obj\Debug\net8.0\ref\Lesson_22_Queue.dll
