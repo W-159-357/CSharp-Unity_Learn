@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\bin\Debug\net8.0\Lesson_23_Hashtable.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\bin\Debug\net8.0\Lesson_23_Hashtable.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\bin\Debug\net8.0\Lesson_23_Hashtable.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\bin\Debug\net8.0\Lesson_23_Hashtable.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\bin\Debug\net8.0\Lesson_23_Hashtable.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\refint\Lesson_23_Hashtable.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\Lesson_23_Hashtable.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_23_Hashtable\obj\Debug\net8.0\ref\Lesson_23_Hashtable.dll
