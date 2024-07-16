@@ -122,7 +122,17 @@ class Program
     #endregion
 
     #region 二、约束的组合使用
-    
+    class Test7<T> where T : class, new()
+    {
+
+    }
+    #endregion
+
+    #region 三、多个泛型有约束
+    class Test8<T, K> where T : class, new() where K : struct
+    {
+        
+    }
     #endregion
 
     static void Main(string[] args)
