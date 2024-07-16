@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\bin\Debug\net8.0\Lesson_26_List.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\bin\Debug\net8.0\Lesson_26_List.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\bin\Debug\net8.0\Lesson_26_List.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\bin\Debug\net8.0\Lesson_26_List.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\bin\Debug\net8.0\Lesson_26_List.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\refint\Lesson_26_List.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\Lesson_26_List.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_26_List\obj\Debug\net8.0\ref\Lesson_26_List.dll
