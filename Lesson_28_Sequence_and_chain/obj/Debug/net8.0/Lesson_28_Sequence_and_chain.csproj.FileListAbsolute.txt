@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\bin\Debug\net8.0\Lesson_28_Sequence_and_chain.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\bin\Debug\net8.0\Lesson_28_Sequence_and_chain.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\bin\Debug\net8.0\Lesson_28_Sequence_and_chain.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\bin\Debug\net8.0\Lesson_28_Sequence_and_chain.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\bin\Debug\net8.0\Lesson_28_Sequence_and_chain.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\refint\Lesson_28_Sequence_and_chain.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\Lesson_28_Sequence_and_chain.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_28_Sequence_and_chain\obj\Debug\net8.0\ref\Lesson_28_Sequence_and_chain.dll
