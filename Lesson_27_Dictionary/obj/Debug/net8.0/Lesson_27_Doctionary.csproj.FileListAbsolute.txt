@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\bin\Debug\net8.0\Lesson_27_Doctionary.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\bin\Debug\net8.0\Lesson_27_Doctionary.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\bin\Debug\net8.0\Lesson_27_Doctionary.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\bin\Debug\net8.0\Lesson_27_Doctionary.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\bin\Debug\net8.0\Lesson_27_Doctionary.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\refint\Lesson_27_Doctionary.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\Lesson_27_Doctionary.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_27_Dictionary\obj\Debug\net8.0\ref\Lesson_27_Doctionary.dll
