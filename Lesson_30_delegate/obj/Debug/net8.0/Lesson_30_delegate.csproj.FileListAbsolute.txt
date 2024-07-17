@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\bin\Debug\net8.0\Lesson_30_delegate.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\bin\Debug\net8.0\Lesson_30_delegate.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\bin\Debug\net8.0\Lesson_30_delegate.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\bin\Debug\net8.0\Lesson_30_delegate.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\bin\Debug\net8.0\Lesson_30_delegate.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\refint\Lesson_30_delegate.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\Lesson_30_delegate.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_30_delegate\obj\Debug\net8.0\ref\Lesson_30_delegate.dll
