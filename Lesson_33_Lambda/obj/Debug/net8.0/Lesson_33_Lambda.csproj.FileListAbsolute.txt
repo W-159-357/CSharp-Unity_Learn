@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\bin\Debug\net8.0\Lesson_33_Lambda.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\bin\Debug\net8.0\Lesson_33_Lambda.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\bin\Debug\net8.0\Lesson_33_Lambda.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\bin\Debug\net8.0\Lesson_33_Lambda.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\bin\Debug\net8.0\Lesson_33_Lambda.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\refint\Lesson_33_Lambda.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\Lesson_33_Lambda.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_33_Lambda\obj\Debug\net8.0\ref\Lesson_33_Lambda.dll
