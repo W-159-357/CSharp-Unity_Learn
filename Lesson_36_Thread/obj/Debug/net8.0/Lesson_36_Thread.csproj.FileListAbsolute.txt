@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\bin\Debug\net8.0\Lesson_36_Thread.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\bin\Debug\net8.0\Lesson_36_Thread.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\bin\Debug\net8.0\Lesson_36_Thread.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\bin\Debug\net8.0\Lesson_36_Thread.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\bin\Debug\net8.0\Lesson_36_Thread.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\refint\Lesson_36_Thread.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\Lesson_36_Thread.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_36_Thread\obj\Debug\net8.0\ref\Lesson_36_Thread.dll
