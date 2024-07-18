@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\bin\Debug\net8.0\Lesson_34_List_Sort.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\bin\Debug\net8.0\Lesson_34_List_Sort.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\bin\Debug\net8.0\Lesson_34_List_Sort.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\bin\Debug\net8.0\Lesson_34_List_Sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\bin\Debug\net8.0\Lesson_34_List_Sort.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\refint\Lesson_34_List_Sort.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\Lesson_34_List_Sort.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_34_List_Sort\obj\Debug\net8.0\ref\Lesson_34_List_Sort.dll
