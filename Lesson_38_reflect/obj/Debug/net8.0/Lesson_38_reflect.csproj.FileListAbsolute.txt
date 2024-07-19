@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\bin\Debug\net8.0\Lesson_38_reflect.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\bin\Debug\net8.0\Lesson_38_reflect.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\bin\Debug\net8.0\Lesson_38_reflect.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\bin\Debug\net8.0\Lesson_38_reflect.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\bin\Debug\net8.0\Lesson_38_reflect.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\refint\Lesson_38_reflect.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\Lesson_38_reflect.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_38_reflect\obj\Debug\net8.0\ref\Lesson_38_reflect.dll
