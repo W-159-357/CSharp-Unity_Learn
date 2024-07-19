@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\bin\Debug\net8.0\Lesson_49_iterator.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\bin\Debug\net8.0\Lesson_49_iterator.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\bin\Debug\net8.0\Lesson_49_iterator.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\bin\Debug\net8.0\Lesson_49_iterator.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\bin\Debug\net8.0\Lesson_49_iterator.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\refint\Lesson_49_iterator.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\Lesson_49_iterator.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_40_iterator\obj\Debug\net8.0\ref\Lesson_49_iterator.dll
