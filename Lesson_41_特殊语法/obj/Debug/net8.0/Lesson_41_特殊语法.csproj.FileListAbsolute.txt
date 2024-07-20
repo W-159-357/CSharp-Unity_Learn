@@ -1,0 +1,15 @@
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\bin\Debug\net8.0\Lesson_41_特殊语法.exe
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\bin\Debug\net8.0\Lesson_41_特殊语法.deps.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\bin\Debug\net8.0\Lesson_41_特殊语法.runtimeconfig.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\bin\Debug\net8.0\Lesson_41_特殊语法.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\bin\Debug\net8.0\Lesson_41_特殊语法.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.AssemblyInfoInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.AssemblyInfo.cs
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.csproj.CoreCompileInputs.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.sourcelink.json
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\refint\Lesson_41_特殊语法.dll
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.pdb
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\Lesson_41_特殊语法.genruntimeconfig.cache
+D:\src\CSharp_Learn\CSharp-Unity_Learn\Lesson_41_特殊语法\obj\Debug\net8.0\ref\Lesson_41_特殊语法.dll
